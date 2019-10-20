@@ -15,6 +15,10 @@
   <properties>
   </properties>
   <dependencies>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+    </dependency>
     <!-- compile dependencies -->
     <dependency>
       <groupId>org.eclipse.swt</groupId>

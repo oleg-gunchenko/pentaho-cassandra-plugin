@@ -19,6 +19,7 @@
 			<outputDirectory>lib</outputDirectory>
 			<unpack>false</unpack>
 			<includes>
+				<include>ch.qos.logback:logback-classic</include>
 				<include>org.apache.cassandra:cassandra-all</include>
 				<include>com.datastax.cassandra:cassandra-driver-core</include>
 				<include>com.datastax.cassandra:cassandra-driver-extras</include>
